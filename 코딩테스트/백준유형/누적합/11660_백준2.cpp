@@ -5,7 +5,7 @@ using namespace std;
 int N, M;
 int x1, y1, x2, y2;
 int sum;
-vector <vector <int>> arr;;
+vector <vector <int> > arr;;
 int main()
 {
     ios_base::sync_with_stdio(0);

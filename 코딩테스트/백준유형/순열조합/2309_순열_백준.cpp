@@ -5,7 +5,6 @@
 */
 
 // 순열은 항상 오름차순
-
 // 9C2 대신 9P7도 가능 
 #include <iostream>
 #include <algorithm>

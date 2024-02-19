@@ -8,6 +8,7 @@ int main()
     int sum = 0;
     bool found = false;
 
+
     for (int i=0; i<9; i++)
     {
         cin >> arr[i];

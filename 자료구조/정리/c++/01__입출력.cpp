@@ -10,6 +10,7 @@ int main()
     cout << a << "\n";
     cout << b << "\n";
 
+
     cin >> input;
     cout << input << "\n";
     return 0;

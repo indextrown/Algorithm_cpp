@@ -41,7 +41,7 @@ int main()
         }
 
         // if (temp[0] >= '0' && temp[0] <= '9') {
-        //     int index = stoi(temp);
+        //     int insdex = stoi(temp);
         //     cout << inttostr[index] << "\n";
         // } else {
         //     cout << strtoint[temp] << "\n";

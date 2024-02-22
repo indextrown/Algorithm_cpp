@@ -46,6 +46,15 @@ int main()
         // } else {
         //     cout << strtoint[temp] << "\n";
         // }
+
+        // if(atoi(str.c_str())==0)
+        // {
+        //     cout<<m1[str]<<"\n";        
+        // }
+        // else
+        // {
+        //     cout<<m2[atoi(str.c_str())]<<"\n";    
+        // }   
     }
     return 0;
 }

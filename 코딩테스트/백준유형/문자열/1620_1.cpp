@@ -1,45 +1,51 @@
+// N : 1 <= N <= 100000
+// M : 1 <= M <= 100000
+
 #include <iostream>
-#include <vector>
 #include <unordered_map>
+// map           : 이진트리 기반: 삽입, 삭제, 검색 O(nlogn)
+// unordered_map : 키의 순서 없음 삽입, 삭제, 검색 O(1)
+
 using namespace std;
 
 int N, M;
-unordered_map<string, int> dictionary;
+string temp;
 
 int main()
 {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
-
+    ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
     cin >> N >> M;
-    vector<string> question(M);
 
-    // N
-    for (int i=1; i<=N; i++)
+    unordered_map<string, int> strtoint;  
+    unordered_map<int, string> inttostr;
+
+    for (int i=1; i<=N; i++) 
     {
-        string word;
-        cin >> word;
-        dictionary[word] = i;
+        cin >> temp;
+        strtoint[temp] = i;
+        inttostr[i] = temp;
     }
 
-    // M
     for (int i=0; i<M; i++)
     {
-        string query;
-        cin >> query;
+        cin >> temp;
 
-        // 숫자인 경우
-        bool isNumber = true;
-        for (char c : query)
+        if (isdigit(temp[0]))
         {
-            if (!isdigit(c))
-            {
-                isNumber = false;
-                break;
-            }
+            int index = stoi(temp);
+            cout << inttostr[index] << "\n";
         }
-    }
+        else
+        {
+            cout << strtoint[temp] << "\n";
+        }
 
+        // if (temp[0] >= '0' && temp[0] <= '9') {
+        //     int index = stoi(temp);
+        //     cout << inttostr[index] << "\n";
+        // } else {
+        //     cout << strtoint[temp] << "\n";
+        // }
+    }
     return 0;
 }

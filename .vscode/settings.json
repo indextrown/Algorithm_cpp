@@ -6,6 +6,7 @@
         "map": "cpp",
         "stack": "cpp",
         "ios": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "__tree": "cpp"
     }
 }

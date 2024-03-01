@@ -11,6 +11,7 @@
                 "${file}",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}",
+                "-std=c++11", // C++11 표준 사용
                 "-Wno-c++11-extensions" // 이전에 제시된 경고를 무시
             ],
             "options": {

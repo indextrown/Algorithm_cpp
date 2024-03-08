@@ -26,7 +26,6 @@ int main()
         if (i == 0 || i > 0 && arr[i] != arr[i-1])
             cout << arr[i] << "\n";
     }
-
     return 0;
 }
 

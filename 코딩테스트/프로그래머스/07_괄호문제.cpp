@@ -26,7 +26,7 @@ bool solution(string s)
     //'('와 ')'가 짝이 안 맞는 경우 '('가 모두 pop되지 않기 때문에
     // 스택이 비지 않는다. 따라서 이 경우는 vps가 아니므로 "NO"
     if (!st.empty()) answer = false;
-
+    
     return answer;
 }
 

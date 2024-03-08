@@ -2,7 +2,8 @@
 using namespace std;
 
 int N;
-int arr[1000];
+int arr[1000];    
+
 int main()
 {
     freopen("input.txt", "r", stdin);

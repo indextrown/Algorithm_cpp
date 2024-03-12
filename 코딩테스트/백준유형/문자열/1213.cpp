@@ -14,6 +14,7 @@ int main()
     
     cin >> inp;
 
+    // 카운팅 배열
     for (int i=0; i<inp.size(); i++)
     {
         arr[inp[i] - 'A']++;
@@ -38,6 +39,7 @@ int main()
     int oddCount = 0;
     for (int i = 0; i < 26; i++)
     {
+        // if(arr[i] & 1) 도 가능
         if (arr[i] % 2 != 0) // -> 홀수
         {
             oddCount++;

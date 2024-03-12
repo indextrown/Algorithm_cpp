@@ -15,6 +15,9 @@
 | 9996 | [한국이 그리울 떈 서버에 접속하지](https://www.acmicpc.net/problem/9996)                | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/문자열/9996_1.cpp)  |
 | 2559 | [수열](https://www.acmicpc.net/problem/2559)                                 | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/누적합/2559_백준.cpp)  |
 | 1620 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)                     | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/문자열/1620_1.cpp)  |
+| 9375 | [패션왕 신해빈](https://www.acmicpc.net/problem/9375)                     | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/문자열/9375_1.cpp)  |
+| 1213 | [팬린드롬 만들기](https://www.acmicpc.net/problem/1213)                     | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/문자열/1213.cpp)  |
+| 1940 | [주몽](https://www.acmicpc.net/problem/1940)                     | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/순열조합/1940.cpp)  |
 
 
 

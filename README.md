@@ -1,5 +1,22 @@
 # 알고리즘 공부 문제 저장용 🤜🏼
 
+## 알고리즘 공부 순서
+
+| Round | Title                                                                | Swift                                                                                             |
+|:-----:|:--------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|
+| 2309  | [일곱 난쟁이[순열]](https://www.acmicpc.net/problem/2309)                           | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/순열조합/2309_순열.cpp)  |
+| 2309  | [일곱 난쟁이[조합]](https://www.acmicpc.net/problem/2309)                           | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/순열조합/2309_조합.cpp)  |
+| 2309  | [일곱 난쟁이[재귀]](https://www.acmicpc.net/problem/2309)                           | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/순열조합/2309_재귀.cpp)  |
+| 10808  | [알파벳 개수](https://www.acmicpc.net/problem/10808)                      | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/순열조합/10808.cpp)  |
+| 1005  | [ACM Craft](https://www.acmicpc.net/problem/1005)                    | [Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1005%EB%B2%88.swift)  |
+| 1007  | [벡터 매칭](https://www.acmicpc.net/problem/1007)                        | [Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1007%EB%B2%88.swift)  |
+| 1009  | [분산처리](https://www.acmicpc.net/problem/1009)                         | [Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1009%EB%B2%88.swift)  |
+| 1010  | [다리 놓기](https://www.acmicpc.net/problem/1010)                        | [Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1010%EB%B2%88.swift)  |
+
+
+
+
+
 ## 풀이 있음
 
 | Round         | Title                                                                  | Link                                     |

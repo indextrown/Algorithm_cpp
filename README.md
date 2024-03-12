@@ -2,16 +2,19 @@
 
 ## 알고리즘 공부 순서
 
-| Round | Title                                                                | Swift                                                                                             |
+| Round | Title                                                                | C++                                                                                          |
 |:-----:|:--------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|
 | 2309  | [일곱 난쟁이[순열]](https://www.acmicpc.net/problem/2309)                           | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/순열조합/2309_순열.cpp)  |
 | 2309  | [일곱 난쟁이[조합]](https://www.acmicpc.net/problem/2309)                           | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/순열조합/2309_조합.cpp)  |
 | 2309  | [일곱 난쟁이[재귀]](https://www.acmicpc.net/problem/2309)                           | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/순열조합/2309_재귀.cpp)  |
-| 10808  | [알파벳 개수](https://www.acmicpc.net/problem/10808)                      | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/순열조합/10808.cpp)  |
-| 1005  | [ACM Craft](https://www.acmicpc.net/problem/1005)                    | [Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1005%EB%B2%88.swift)  |
-| 1007  | [벡터 매칭](https://www.acmicpc.net/problem/1007)                        | [Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1007%EB%B2%88.swift)  |
-| 1009  | [분산처리](https://www.acmicpc.net/problem/1009)                         | [Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1009%EB%B2%88.swift)  |
-| 1010  | [다리 놓기](https://www.acmicpc.net/problem/1010)                        | [Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/1010%EB%B2%88.swift)  |
+| 10808 | [알파벳 개수](https://www.acmicpc.net/problem/10808)                               | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/문자열/10808.cpp)  |
+| 2979  | [트럭 주차](https://www.acmicpc.net/problem/2979)                                 | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/시뮬레이션/2979.cpp)  |
+| 1007  | [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)                        | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/문자열/10988.cpp)  |
+| 1159  | [농구 경기](https://www.acmicpc.net/problem/1159)                                 | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/문자열/1159.cpp)  |
+| 11655 | [ROT13](https://www.acmicpc.net/problem/11655)                                 | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/문자열/11655.cpp)  |
+| 9996 | [한국이 그리울 떈 서버에 접속하지](https://www.acmicpc.net/problem/9996)                | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/문자열/9996_1.cpp)  |
+| 2559 | [수열](https://www.acmicpc.net/problem/2559)                                 | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/누적합/2559_백준.cpp)  |
+| 1620 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)                     | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/문자열/1620_1.cpp)  |
 
 
 

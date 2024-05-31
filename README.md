@@ -18,6 +18,7 @@
 | 9375 | [패션왕 신해빈](https://www.acmicpc.net/problem/9375)                     | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/문자열/9375_1.cpp)  |
 | 1213 | [팬린드롬 만들기](https://www.acmicpc.net/problem/1213)                     | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/문자열/1213.cpp)  |
 | 1940 | [주몽](https://www.acmicpc.net/problem/1940)                     | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/순열조합/1940.cpp)  |
+| 2798 | [블랙잭](https://www.acmicpc.net/problem/2798)                     | [Link](https://github.com/indextrown/algorithm/blob/master/코딩테스트/백준유형/순열조합/2798_조합.cpp)  |
 
 
 
